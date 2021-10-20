@@ -1,4 +1,4 @@
-# Spotyfy Clone 
+# Spotify Clone 
 
-# Projeto Prático
+### Projeto Prático
 <img src='./spotify-clone/img/spotify.png ' width='50%'/>
